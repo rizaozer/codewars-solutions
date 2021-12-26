@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(dnaStrand("GTAT"));
+        System.out.println(makeComplement("GTAT"));
     }
     // "ATTGC" --> "TAACG"
     //"GTAT" --> "CATA"
@@ -13,7 +13,6 @@ public class Main {
 
     public static String makeComplement(String dna) {
         StringBuilder stringBuilder = new StringBuilder();
-
         for (int i = 0; i < dna.length(); i++) {
             if(dna.charAt(i) == 'A') {
                 stringBuilder.append('T');
@@ -29,7 +28,6 @@ public class Main {
                 stringBuilder.append('G');
             }
         }
-        String stringdna = stringBuilder.toString();
-        return stringdna;
+        return stringBuilder.toString();
     }
 }
