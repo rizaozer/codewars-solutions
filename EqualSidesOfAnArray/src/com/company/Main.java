@@ -42,17 +42,5 @@ public class Main {
             }
         }
         return -1;
-
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = 0; j < i; j++) {
-                int sum1 = IntStream.of(j).sum();
-                counter = sum1;
-            }
-
-            for (int j = 0; j < i; j--) {
-                int sum2 = IntStream.of(j).sum();
-                counter = sum2;
-            }
         }
     }
-}
