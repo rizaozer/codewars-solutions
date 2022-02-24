@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(getXO("xxxooo"));
+        System.out.println(getXO("zzzzz"));
     }
 
     public static boolean getXO (String str) {

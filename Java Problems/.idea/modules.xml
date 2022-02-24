@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Problems.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Files/Theory/Java_Problems.Topics-Files-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Files/Theory/Java_Problems.Topics-Files-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Files/Theory/Java_Problems.Topics-Files-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Files/Theory/Java_Problems.Topics-Files-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Files/Theory/Java_Problems.Topics-Files-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Files/Theory/Java_Problems.Topics-Files-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Problems.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Problems.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Problems.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Problems.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Problems.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Problems.util.test.iml" />
+    </modules>
+  </component>
+</project>
