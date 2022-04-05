@@ -28,11 +28,9 @@ public class Main {
             StringBuilder myWord = new StringBuilder();
             //split morse letters to array
             String[] word = words[i].split(" ");
-            System.out.println(Arrays.toString(word));
 
             // for loop for every word
             for (int j = 0; j < word.length; j++) {
-                System.out.println(morse.get(word[j]));
                 myWord.append(morse.get(word[j]));
             }
             sentence.add(myWord);
